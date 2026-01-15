@@ -1,6 +1,6 @@
 # BASE SYSTEM — HANDOFF SNAPSHOT (CURRENT STATE)
 
-Owner: William Smith McClinton
+Owner: W Mc
 Repo: base-system (public)
 Purpose: Base — Creator-Owned App System (Core Framework)
 

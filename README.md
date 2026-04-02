@@ -65,7 +65,7 @@ You must:
 
 ## Author
 
-William McClinton  
+William S McClinton  
 Creator of BASE
 
 ---
